@@ -1,1 +1,8 @@
+title: adro.no
+
+author:
+  name: Adrono
+  email: info@adro.no
+  
 theme: minima
+#remote_theme: jekyll/minima
