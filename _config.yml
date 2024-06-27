@@ -1,4 +1,4 @@
 title: adro.no
   
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
