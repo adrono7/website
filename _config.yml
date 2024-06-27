@@ -2,6 +2,8 @@ title: adro.no
 author:
   name: Adrono
   email: info@adro.no
+
+description: A drive through the mind of Adrono.
   
 #theme: minima
 remote_theme: jekyll/minima
